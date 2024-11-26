@@ -3,6 +3,7 @@ layout: post
 title:  "A Solar Future"
 date:   2024-10-15
 categories: jekyll update
+published: false
 ---
 
 ## Building a Solar Future: A Necessity for Prosperous Society
